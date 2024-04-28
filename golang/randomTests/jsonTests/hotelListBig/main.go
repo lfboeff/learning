@@ -58,7 +58,7 @@ func main() {
 	// }
 	// fmt.Println(string(strBytes))
 
-	strBytes, err := os.ReadFile("json.json")
+	strBytes, err := os.ReadFile("file.json")
 	if err != nil {
 		log.Fatal(err)
 	}

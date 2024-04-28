@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Caderno do Felipe",
+        "artist": "Felipe",
+        "age": 5,
+        "total_pages": 250,
+        "favorite_pages": [1, 50, 150, 225],
+        "color": "green",
+        "is_active": true
+    },
+    {
+        "title": "Caderno da Daiana",
+        "artist": "Daiana",
+        "age": 2,
+        "total_pages": 150,
+        "favorite_pages": [2, 10, 100],
+        "color": "yellow",
+        "is_active": true
+    },
+    {
+        "title": "Caderno da Maria Nelzi",
+        "artist": "Maria Nelzi",
+        "age": 18,
+        "total_pages": 1990,
+        "favorite_pages": [1, 10, 1020, 1027, 1500, 1213, 27, 20, 2],
+        "color": "red",
+        "is_active": true
+    },
+    {
+        "title": "Caderno do Papis",
+        "artist": "Flávio",
+        "age": 8,
+        "total_pages": 50,
+        "favorite_pages": [0, 33, 26],
+        "color": "black",
+        "is_active": false
+    },
+    {
+        "title": "Caderno do Loro Green",
+        "artist": "Loro",
+        "total_pages": null,
+        "favorite_pages": [0, null],
+        "color": "green",
+        "is_active": null
+    }
+]
