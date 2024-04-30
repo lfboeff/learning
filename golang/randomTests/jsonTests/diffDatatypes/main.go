@@ -12,7 +12,7 @@ type Book struct {
 	Artist        string `json:"artist"`
 	Age           int    `json:"age,omitempty"`
 	TotalPages    int    `json:"total_pages"`
-	FavoritePages []int  `json:"favorite_pages,omitempty"`
+	FavoritePages []int  `json:"favorite_pages"`
 	Color         string `json:"color"`
 	IsActive      bool   `json:"is_active"`
 }
