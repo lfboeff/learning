@@ -5,5 +5,5 @@ Todo list:
 ✅ 189. JSON marshal (6)
 ✅ 190. JSON unmarshal (16)
 ✅ 191. Writer interface (16)
-- 192. Sort(6)
-- 193. Sort custom (11)
+✅ 192. Sort(6)
+✅ 193. Sort custom (11)
