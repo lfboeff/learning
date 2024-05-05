@@ -1,0 +1,26 @@
+Udemy - From Tables and SELECT queries to advanced SQL. SQL Server 2012, 2014, 2016, 2017, 2019, and 2022. Helps with DP-600
+https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/learn/lecture/12462374#overview
+
+Udemy - Data Engineering Essentials using SQL, Python, and PySpark
+https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/
+
+Youtube Playlist - SQL Server Practice Activities
+https://www.youtube.com/playlist?list=PLdHV54DK_E84O8Qe0X2cDpBmvjHuRn5Ee
+
+Coursera - Google IT Automation with Python Professional Certificate
+https://www.coursera.org/professional-certificates/google-it-automation
+
+Coursera - Google Data Analytics Professional Certificate
+https://www.coursera.org/professional-certificates/google-data-analytics
+
+Coursera - Google Advanced Data Analytics Professional Certificate
+https://www.coursera.org/professional-certificates/google-advanced-data-analytics
+
+Eu capacito - Java Fundamentos
+https://www.eucapacito.com.br/cursos/java-fundamentos/
+
+Eu capacito - Cloud Fundamentals, Administration and Solution Architect
+https://www.eucapacito.com.br/cursos/cloud-fundamentals/
+
+Eu capacito - Business Intelligence (BI)
+https://www.eucapacito.com.br/cursos/business-intelligence-bi/

@@ -27,7 +27,7 @@
         "favorite_pages": [1, 10, 1020, 1027, 1500, 1213, 27, 20, 2],
         "color": "red",
         "is_active": true,
-        "lastmodified": "2024-05-03T21:10:11Z"
+        "lastmodified": "2024-05-03T21:10:00Z"
     },
     {
         "title": "Caderno do Papis",
@@ -46,5 +46,32 @@
         "color": "green",
         "is_active": null,
         "lastmodified": "2010-12-25T20:10:04Z"
+    },
+    {
+        "title": "Caderno do Vânder",
+        "artist": "Vânder",
+        "total_pages": 50,
+        "color": "blue",
+        "favorite_pages": [1, 2, 3],
+        "is_active": false,
+        "lastmodified": "2020-11-28T00:00:00Z"
+    },
+    {
+        "title": "Caderno do Piovas",
+        "artist": "Piovas",
+        "total_pages": 150,
+        "color": "black",
+        "favorite_pages": [10, 20, 30, 40, 50],
+        "is_active": true,
+        "lastmodified": "2020-11-28T00:00:00Z"
+    },
+    {
+        "title": "Caderno do Filipiaki",
+        "artist": "Filipiaki",
+        "total_pages": null,
+        "favorite_pages": [0, 26, 33],
+        "color": "blue",
+        "is_active": false,
+        "lastmodified": "2020-11-28T00:00:00Z"
     }
 ]
