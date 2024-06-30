@@ -1,3 +1,7 @@
+//
+// My First Java Spring App! :)
+//
+
 package com.eventostec.api;
 
 import org.springframework.boot.SpringApplication;
